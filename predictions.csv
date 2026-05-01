@@ -1,0 +1,32 @@
+status,product_area,response,justification,request_type,confidence
+replied,Claude Help Center,"Based on Claude Help Center guidance, please follow troubleshooting steps.",Low-risk issue suitable for automated triage.,product_issue,0.89
+replied,HackerRank Support,"Based on HackerRank Support guidance, please follow troubleshooting steps.",Low-risk issue suitable for automated triage.,product_issue,0.89
+replied,Visa Support,"Based on Visa Support guidance, please follow troubleshooting steps.",Low-risk issue suitable for automated triage.,product_issue,0.89
+replied,HackerRank Support,"Based on HackerRank Support guidance, please follow troubleshooting steps.",Bug report suitable for automated triage.,bug,0.88
+replied,HackerRank Support,"Based on HackerRank Support guidance, please follow troubleshooting steps.",Bug report suitable for automated triage.,bug,0.88
+replied,HackerRank Support,"Based on HackerRank Support guidance, please follow troubleshooting steps.",Low-risk issue suitable for automated triage.,product_issue,0.89
+replied,HackerRank Support,"Based on HackerRank Support guidance, please follow troubleshooting steps.",Bug report suitable for automated triage.,bug,0.88
+replied,HackerRank Support,"Based on HackerRank Support guidance, please follow troubleshooting steps.",Bug report suitable for automated triage.,bug,0.88
+replied,HackerRank Support,"Based on HackerRank Support guidance, please follow troubleshooting steps.",Bug report suitable for automated triage.,bug,0.88
+replied,HackerRank Support,"Based on HackerRank Support guidance, please follow troubleshooting steps.",Low-risk issue suitable for automated triage.,feature_request,0.87
+replied,HackerRank Support,"Based on HackerRank Support guidance, please follow troubleshooting steps.",Low-risk issue suitable for automated triage.,product_issue,0.89
+replied,General Support,"Based on General Support guidance, please follow troubleshooting steps.",Bug report suitable for automated triage.,bug,0.88
+replied,HackerRank Support,"Based on HackerRank Support guidance, please follow troubleshooting steps.",Low-risk issue suitable for automated triage.,product_issue,0.89
+replied,HackerRank Support,"Based on HackerRank Support guidance, please follow troubleshooting steps.",Bug report suitable for automated triage.,bug,0.88
+replied,Claude Help Center,"Based on Claude Help Center guidance, please follow troubleshooting steps.",Bug report suitable for automated triage.,bug,0.88
+escalated,Visa Support,This issue requires escalation to Visa Support human support.,Sensitive financial or security issue requires human support.,product_issue,0.9
+replied,HackerRank Support,"Based on HackerRank Support guidance, please follow troubleshooting steps.",Low-risk issue suitable for automated triage.,product_issue,0.89
+replied,HackerRank Support,"Based on HackerRank Support guidance, please follow troubleshooting steps.",Low-risk issue suitable for automated triage.,product_issue,0.89
+replied,Visa Support,"Based on Visa Support guidance, please follow troubleshooting steps.",Low-risk issue suitable for automated triage.,product_issue,0.89
+replied,Claude Help Center,"Based on Claude Help Center guidance, please follow troubleshooting steps.",Bug report suitable for automated triage.,bug,0.88
+replied,Claude Help Center,"Based on Claude Help Center guidance, please follow troubleshooting steps.",Low-risk issue suitable for automated triage.,product_issue,0.89
+replied,Visa Support,"Based on Visa Support guidance, please follow troubleshooting steps.",Low-risk issue suitable for automated triage.,product_issue,0.89
+replied,Claude Help Center,"Based on Claude Help Center guidance, please follow troubleshooting steps.",Low-risk issue suitable for automated triage.,feature_request,0.87
+replied,General Support,"Based on General Support guidance, please follow troubleshooting steps.","Invalid, unsupported, or malicious request.",invalid,0.95
+escalated,Visa Support,This issue requires escalation to Visa Support human support.,Sensitive financial or security issue requires human support.,product_issue,0.9
+replied,Claude Help Center,"Based on Claude Help Center guidance, please follow troubleshooting steps.",Bug report suitable for automated triage.,bug,0.88
+replied,HackerRank Support,"Based on HackerRank Support guidance, please follow troubleshooting steps.",Low-risk issue suitable for automated triage.,product_issue,0.89
+replied,Claude Help Center,"Based on Claude Help Center guidance, please follow troubleshooting steps.",Low-risk issue suitable for automated triage.,product_issue,0.89
+replied,Visa Support,"Based on Visa Support guidance, please follow troubleshooting steps.",Low-risk issue suitable for automated triage.,product_issue,0.89
+replied,Claude Help Center,"Based on Claude Help Center guidance, please follow troubleshooting steps.","Invalid, unsupported, or malicious request.",invalid,0.95
+replied,HackerRank Support,"Based on HackerRank Support guidance, please follow troubleshooting steps.","Invalid, unsupported, or malicious request.",invalid,0.95
